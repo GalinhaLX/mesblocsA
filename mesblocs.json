@@ -1,0 +1,19 @@
+{
+	"blocs": [
+		{
+			"ref": "ref3",
+			"title": "3",
+			"age": "3"
+		},
+		{
+			"ref": "ref2",
+			"title": "b",
+			"age": "b"
+		},
+		{
+			"ref": "référence1",
+			"title": "titre1",
+			"age": "age1"
+		}
+	]
+}
