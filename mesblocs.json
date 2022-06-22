@@ -1,19 +1,28 @@
 {
 	"blocs": [
 		{
-			"ref": "ref3",
-			"title": "3",
-			"age": "3"
+			"ref": "ref1",
+			"title": "Entrée sur le site",
+			"age": "3",
+			"category": "attract",
+			"description": "une image full écran",
+			"img_source": "url de mon image"
 		},
 		{
-			"ref": "ref2",
-			"title": "b",
-			"age": "b"
+			"ref": "feed1",
+			"title": "bloc de témoignages",
+			"age": "b",
+			"category": "convince",
+			"description": "Ce que pensent que vos clients",
+			"img_source": "url image témoignage"
 		},
 		{
-			"ref": "référence1",
-			"title": "titre1",
-			"age": "age1"
+			"ref": "contact1",
+			"title": "Ou vous joindre?",
+			"age": "age1",
+			"category": "Contact",
+			"description": "Affichez vos coordonnées",
+			"img_source": "url image contact"
 		}
 	]
 }
